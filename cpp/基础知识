@@ -1,1 +1,10 @@
 # CPP 基础语法
+
+```
+Linux下C++的编程——GDB进行程序调试:http://blog.csdn.net/luoweifu/article/details/50276197
+GCC是the GNU Compiler Collection的意思，是GNU的一个编译器集合，里面包含了多种编译器及相关工具，如gcc、g++。
+gcc是GNU的C编译器(GNU C Compiler)，是GNU Compiler Collection的一部分; 
+g++是GNU的C++编译器(GNU C++ Compiler)，也是GNU Compiler Collection的一部分;
+Makefile是程序编译的规则，makefile记录着整个工程的编译规则(如源文件的编译顺序、依赖关系等)，通过make工具进行编译。
+make根据makefile定义的规则将源代码编译成二进行文件。在跨平台(特别是类Unix系统中)的程序中，一般都会通过makefile来进行编译。
+```
