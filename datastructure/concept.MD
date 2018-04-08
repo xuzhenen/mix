@@ -25,4 +25,5 @@
 
 # 参考资料
 
- - [寒江独钓:算法和数据结构系列] (http://www.cnblogs.com/yangecnu/category/548373.html)
+- [here] (http://www.cnblogs.com/yangecnu/category/548373.html)
+
