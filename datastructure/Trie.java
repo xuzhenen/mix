@@ -1,11 +1,7 @@
 
 
-# Tire树
+# Tire树 http://vickyqi.com/2015/11/23/数据结构系列——Trie树/
 
-reference:http://vickyqi.com/2015/11/23/数据结构系列——Trie树/
-
-
-```
 /**
  * Alipay.com Inc.
  * Copyright (c) 2004-2018 All Rights Reserved.
@@ -170,5 +166,3 @@ class PrefixTrie {
         }
     }
 }
-
-```
