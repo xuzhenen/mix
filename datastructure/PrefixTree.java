@@ -1,6 +1,6 @@
 
 
-# Tire树 http://vickyqi.com/2015/11/23/数据结构系列——Trie树/
+# Tire树（又称前缀树PrefixTree）http://vickyqi.com/2015/11/23/数据结构系列——Trie树/
 
 /**
  * Alipay.com Inc.
