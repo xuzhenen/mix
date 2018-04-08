@@ -1,7 +1,6 @@
 
 # 一棵BST树
 
-```
 /**
  * Alipay.com Inc.
  * Copyright (c) 2004-2018 All Rights Reserved.
@@ -180,4 +179,3 @@ class TreeNode<E extends Comparable<E>> {
         element = e;
     }
 }
-```
